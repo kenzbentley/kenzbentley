@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kenzbentley
-- 👀 I’m interested in data visualization
+- 👀 I’m interested in data visualization & UX/UI Design
 - 🌱 I’m currently learning html, css, and java
-- 💞️ I’m looking to collaborate on projects related to news/journalism and mental health
+- 💞️ I’m looking to collaborate on entry-level projects
 - 📫 Reach me at kenzie0bentley@gmail.com
 
 <!---
